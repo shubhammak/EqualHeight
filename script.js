@@ -1,7 +1,5 @@
 (function () {
 
-
-    window.addEventListener("resize", edualHeight);
     window.addEventListener("load", edualHeight);
 
     function edualHeight() {
